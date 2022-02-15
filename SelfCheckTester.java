@@ -3,15 +3,15 @@
  */
 package edu.fiu.jit;
 
-import static org.junit.jupiter.api.Assertions.assertNotEquals;
-import static org.junit.jupiter.api.Assertions.assertTrue;
-import static org.junit.jupiter.api.Assertions.fail;
+import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
 import com.tae.lab3.App;
+
+import edu.fiu.jit.appexample.MainComponent;
 
 /**
  * A JUnit Test class that checks to ensure that all your
